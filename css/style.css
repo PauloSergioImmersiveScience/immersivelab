@@ -73,10 +73,11 @@ section.content, section.intro {
 }
 
 footer {
-  background-color: #003366;
+  background-color: #005A3C;
   color: white;
   text-align: center;
   padding: 1em;
-  margin-top: 3em;
+  margin-top: 10px;
 }
+
 
