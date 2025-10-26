@@ -6,10 +6,10 @@ body {
 }
 
 header {
-  background-color: #003366;
+  background-color: #004080;
   color: white;
   text-align: center;
-  padding: 1em 0;
+  padding: 20px;
 }
 
 .logo {
@@ -79,3 +79,4 @@ footer {
   padding: 1em;
   margin-top: 3em;
 }
+
